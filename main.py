@@ -6,4 +6,5 @@ print("Hello Vishal")
 def fun(name):
   print('Hello {}'.format(name))
 fun('World')
-print("rohan)
+print("rohan")
+print("bishal")
