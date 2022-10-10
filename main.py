@@ -1,7 +1,7 @@
 print("Hello World")
-print("Hello Neerajaa")
-print("Hello Vanshhh")
-print("Hello Samaksh")
+print("Hello Bhavik")
+print("Hello Vanh")
+print("Hello Samakh")
 print("Hello Vishal")
 def fun(name):
   print('Hello {}'.format(name))
